@@ -1,6 +1,6 @@
 # Error Presentation
 
-A lightweight Swift package for defining **clean, user-friendly, localised error messages** in iOS, macOS, and other Apple platform apps.
+A lightweight Swift package for defining **clean, user-friendly, localised error messages**.
 
 This package introduces a single, purposeful protocol — `LocalizedCustomerFacingError` — to help you avoid leaking internal details into your user interface, while still supporting developer-friendly logging and diagnostics.
 
@@ -39,6 +39,6 @@ extension LoginError: CustomDebugStringConvertible {
         "LoginError.invalidPassword: Password did not match server response"
     }
 }
-```
 
 logger.debug("Login failed: \(error)")
+```
