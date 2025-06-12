@@ -6,8 +6,8 @@ This package introduces a single, purposeful protocol — `LocalizedCustomerFaci
 
 > This package requires Swift 5.7 or later, and is tested with Swift 5.7 through 6.1.
 
-[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fnashysolutions%2Ferror-presentation%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/nashysolutions/error-presentation)
-[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fnashysolutions%2Ferror-presentation%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/nashysolutions/error-presentation)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fnashysolutions%2Ferror-presentation%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/nashysolutions/error-presentation)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fnashysolutions%2Ferror-presentation%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/nashysolutions/error-presentation)
 
 ---
 
